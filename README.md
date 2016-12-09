@@ -1,8 +1,8 @@
-# S4 minimal PKI with a Shamir shared root private key
+# 4S-PKI minimal PKI with a Shamir shared root private key
 
 ## Summary
 
-### What is S4 ?
+### What is 4S-PKI ?
 
 This tool si built to operate a very simple self signed PKI based on OpenSSL functions.
 
@@ -11,7 +11,7 @@ for Microsoft Certificate Services or others PKI products.
 
 This tool specificity is to use a Shamir Secret Sharing to protect the PKI Root key.
 
-### Why S4 ?
+### Why 4S-PKI ?
 
 We could no find a tool allowing to simply operate a rootca secured by secret sharing.
 
